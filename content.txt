@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 skjghbsuihg
 jkljl;ljh..
+=======
+lghdfg
+>>>>>>> 23c8147... add content
